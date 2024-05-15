@@ -1,0 +1,14 @@
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\L11 Ej 1, Claudia Mejía.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\L11 Ej 1, Claudia Mejía.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\L11 Ej 1, Claudia Mejía.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\L11 Ej 1, Claudia Mejía.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\bin\Debug\net8.0\L11 Ej 1, Claudia Mejía.exe
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\bin\Debug\net8.0\L11 Ej 1, Claudia Mejía.deps.json
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\bin\Debug\net8.0\L11 Ej 1, Claudia Mejía.runtimeconfig.json
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\bin\Debug\net8.0\L11 Ej 1, Claudia Mejía.dll
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\bin\Debug\net8.0\L11 Ej 1, Claudia Mejía.pdb
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\L11 Ej 1, Claudia Mejía.dll
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\refint\L11 Ej 1, Claudia Mejía.dll
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\L11 Ej 1, Claudia Mejía.pdb
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\L11 Ej 1, Claudia Mejía.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L11 Ej 1, Claudia Mejía\obj\Debug\net8.0\ref\L11 Ej 1, Claudia Mejía.dll
