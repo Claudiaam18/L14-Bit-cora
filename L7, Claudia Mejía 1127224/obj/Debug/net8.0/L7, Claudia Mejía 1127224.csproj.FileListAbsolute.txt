@@ -1,0 +1,14 @@
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\bin\Debug\net8.0\L7, Claudia Mejía 1127224.exe
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\bin\Debug\net8.0\L7, Claudia Mejía 1127224.deps.json
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\bin\Debug\net8.0\L7, Claudia Mejía 1127224.runtimeconfig.json
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\bin\Debug\net8.0\L7, Claudia Mejía 1127224.dll
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\bin\Debug\net8.0\L7, Claudia Mejía 1127224.pdb
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\L7, Claudia Mejía 1127224.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\L7, Claudia Mejía 1127224.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\L7, Claudia Mejía 1127224.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\L7, Claudia Mejía 1127224.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\L7, Claudia Mejía 1127224.dll
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\refint\L7, Claudia Mejía 1127224.dll
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\L7, Claudia Mejía 1127224.pdb
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\L7, Claudia Mejía 1127224.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Escritorio\Universidad\Pensamiento computacional práctica\L7, Claudia Mejía 1127224\obj\Debug\net8.0\ref\L7, Claudia Mejía 1127224.dll
